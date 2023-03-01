@@ -1,0 +1,36 @@
+.movie-footer {
+  background-color: #222;
+  color: #fff;
+  font-size: 14px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
+
+.movie-footer-container {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.movie-footer-text {
+  margin: 0;
+}
+
+.movie-footer-social {
+  display: flex;
+}
+
+.movie-footer-icon {
+  color: #fff;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.movie-footer-icon:last-child {
+  margin-right: 0;
+}
